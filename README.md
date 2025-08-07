@@ -1,4 +1,4 @@
-# ContractAnalyzer
+# AqdAi-ContractAnalyzer
 
 A professional React Native/Expo mobile application for extracting and analyzing text from PDF documents and images, with excellent Arabic text recognition.
 
